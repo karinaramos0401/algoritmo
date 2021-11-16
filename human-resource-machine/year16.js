@@ -1,10 +1,9 @@
 function year16 (num) {
     if(num <0) {
-        let negative = num *(-1); 
+        const negative = num *(-1); 
         console.log (negative);
     } else {
-        let positive = num;
-        console.log(positive); 
+        console.log(num); 
     }
         
 }
