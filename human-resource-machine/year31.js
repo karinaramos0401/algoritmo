@@ -4,3 +4,4 @@ const year31 = (numeros) => {
 }
 
 console.log(year31([50,100,80]))
+
